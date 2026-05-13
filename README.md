@@ -9,7 +9,8 @@ This project lets you add programs, assign controller profiles, and map DirectIn
 Add your app screenshot here:
 
 ```md
-![App Screenshot](assets/app-screenshot.png)
+<img width="967" height="627" alt="Screenshot 2026-05-14 001341" src="https://github.com/user-attachments/assets/2792db26-d44f-4993-b2e1-3734f6eaf6b4" />
+
 ```
 ## Features
 
