@@ -9,8 +9,6 @@ This project lets you add programs, assign controller profiles, and map DirectIn
 <img width="967" height="627" alt="Screenshot 2026-05-14 001341" src="https://github.com/user-attachments/assets/2792db26-d44f-4993-b2e1-3734f6eaf6b4" />
 
 
-
-```
 ## Features
 
 - Add games or applications to a managed program list
@@ -39,7 +37,7 @@ After downloading:
 3. Run:
 
 ```text
-di2xinput.exe
+di2xinput
 ```
 
 Keep all included files in the same folder.
