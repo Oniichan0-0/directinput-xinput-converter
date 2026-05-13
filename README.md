@@ -170,5 +170,3 @@ Some games may require restarting after configuration changes.
 ## Disclaimer
 
 Use this tool only with games and applications where input remapping or controller compatibility tools are allowed.
-
-This project is provided as-is without warranty.
